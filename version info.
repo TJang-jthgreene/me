@@ -1,4 +1,6 @@
 # when mm is not neutral, set not to sum ecoul for the total energy of mm. src_rec6
+# long-range correction is considered src_rec6_rev
 # when more of atomic species are involved in mm, use other modified versions of src_rec2
 # for alchemy in DFT-CES, use src_Alchem_gauss2. src_Alchem_gauss is a dummy of the latest version.
 # src_rec3 probably has an error in describing averaged dispersion force.
+# those revised codes will be uploaded soon.
